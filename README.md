@@ -1,1 +1,1 @@
-# Simble-HTML-projects
+# Simple-HTML-projects
